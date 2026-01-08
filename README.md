@@ -40,7 +40,7 @@
 
 | **Project** | **Description** | **Stack** |
 | :--- | :--- | :--- |
-| **⚽ Moneyball 2026** | **[Kaggle Grandmaster Project]** Predicting football player valuations with 91% R² accuracy using Random Forest. | `Python` `Random Forest` |
+| **⚽ Moneyball 2026** |  Predicting football player valuations with 91% R² accuracy using Random Forest. | `Python` `Random Forest` |
 | **💰 Loan Payback App** | End-to-end deployed web application for predicting loan default probability in real-time. | `Streamlit` `Scikit-Learn` |
 | **📈 Bitcoin Strategy** | Algo-trading bot identifying "Golden Cross" signals with Time-Series forecasting. | `Time-Series` `Matplotlib` |
 
