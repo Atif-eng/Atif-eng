@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Kaggle+Notebook+Expert;Building+ML+Pipelines;Open+to+GSoC+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Aspiring,Datascientist,Machine+Learning+Engineer;Kaggle+Notebook+Expert;Building+ML+Pipelines;Open+to+GSoC+2026" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
   </p>
   
   <a href="https://www.kaggle.com/atifkhan12">
-    <img src="https://img.shields.io/badge/Kaggle%20Expert-12x%20Bronze%20Medals-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle Expert"/>
+    <img src="https://img.shields.io/badge/Kaggle%20Expert-13x%20Bronze%20Medals-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle Expert"/>
   </a>
   <a href="https://loanpaybackpredictionapp-c2fbcph9kdnqkndehdxkac.streamlit.app/">
     <img src="https://img.shields.io/badge/Deployed%20App-Loan%20Payback-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App"/>
