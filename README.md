@@ -48,22 +48,7 @@
 
 ---
 
-### 📊 **GitHub Analytics**
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atif-eng&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atif-eng&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br/> -->
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atif-eng&theme=radical&hide_border=true" alt="streak graph" />
-</div>
-
-<br/>
-
----
 
 <div align="center">
   <h3>Let's Connect 🤝</h3>
