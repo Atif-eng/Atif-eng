@@ -15,7 +15,7 @@
   </p>
   
   <a href="https://www.kaggle.com/atifkhan12">
-    <img src="https://img.shields.io/badge/Kaggle%20Expert-20+%20Bronze%20Medals-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle Expert"/>
+    <img src="https://img.shields.io/badge/Kaggle%20Expert-15+%20Bronze%20Medals-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle Expert"/>
   </a>
   <a href="https://loanpaybackpredictionapp-c2fbcph9kdnqkndehdxkac.streamlit.app/">
     <img src="https://img.shields.io/badge/Deployed%20App-Loan%20Payback-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App"/>
