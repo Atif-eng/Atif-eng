@@ -42,8 +42,10 @@
 
 | **Project** | **Description** | **Stack** |
 | :--- | :--- | :--- |
-| **⚽ Moneyball 2026** | Predicting football player valuations with 91% R² accuracy using Random Forest. | `Python` `Random Forest` |
 | **💰 Loan Payback App** | End-to-end deployed web application for predicting loan default probability in real-time. | `Streamlit` `Scikit-Learn` `Dask` |
+| **🐱🐶 Cats vs Dogs Classifier** | Binary image classification using Custom Convolutional Neural Networks (CNNs) with data augmentation. | `TensorFlow` `Keras` `OpenCV` |
+| **☁️ VM Cloud Failure Monitor** | Predictive maintenance system simulating distributed telemetry to catch virtual machine faults before downtime. | `Dask` `XGBoost` `Pandas` |
+| **⚽ Moneyball 2026** | Predicting football player valuations with 91% R² accuracy using Random Forest. | `Python` `Random Forest` |
 | **📈 Bitcoin Strategy** | Algo-trading bot identifying "Golden Cross" signals with Time-Series forecasting. | `Time-Series` `Matplotlib` |
 
 <br/>
@@ -58,5 +60,3 @@
   </a>
   <a href="mailto:atifahmadani68@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
