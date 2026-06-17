@@ -38,15 +38,15 @@
 
 <br/>
 
-### 🏆 **Featured Work**
+### **Featured Work**
 
 | **Project** | **Description** | **Stack** |
 | :--- | :--- | :--- |
-| **💰 Loan Payback App** | End-to-end deployed web application for predicting loan default probability in real-time. | `Streamlit` `Scikit-Learn` `Dask` |
-| **🐱🐶 Cats vs Dogs Classifier** | Binary image classification using Custom Convolutional Neural Networks (CNNs) with data augmentation. | `TensorFlow` `Keras` `OpenCV` |
-| **☁️ VM Cloud Failure Monitor** | Predictive maintenance system simulating distributed telemetry to catch virtual machine faults before downtime. | `Dask` `XGBoost` `Pandas` |
-| **⚽ Moneyball 2026** | Predicting football player valuations with 91% R² accuracy using Random Forest. | `Python` `Random Forest` |
-| **📈 Bitcoin Strategy** | Algo-trading bot identifying "Golden Cross" signals with Time-Series forecasting. | `Time-Series` `Matplotlib` |
+| **Loan Payback App** | End-to-end deployed web application for predicting loan default probability in real-time. | `Streamlit` `Scikit-Learn` `Dask` |
+| **Cats vs Dogs Classifier** | Binary image classification using Custom Convolutional Neural Networks (CNNs) with data augmentation. | `TensorFlow` `Keras` `CNN` |
+| **VM Cloud Failure Monitor** | Predictive maintenance system simulating distributed telemetry to catch virtual machine faults before downtime. | `Dask` `GRU` `LSTM` `ANN` `Pandas` |
+| **Moneyball 2026** | Predicting football player valuations with 91% R² accuracy using Random Forest. | `Python` `Random Forest` |
+| **Bitcoin Strategy** | Algo-trading bot identifying "Golden Cross" signals with Time-Series forecasting. | `Time-Series` `Matplotlib` |
 
 <br/>
 
