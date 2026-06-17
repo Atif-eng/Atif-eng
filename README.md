@@ -52,7 +52,6 @@
 
 <div align="center">
   <h3>Let's Connect 🤝</h3>
-  <p>Open to <b>GSoC 2026</b> collaborations and Remote Contracts.</p>
   
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
