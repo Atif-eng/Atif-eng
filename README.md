@@ -10,7 +10,7 @@
 
 <div align="center">
   <p>
-    I am an <b>Applied ML Engineer</b> focused on Modeling and Analytics. 
+    I am an <b>Data Science Student</b> focused on Modeling and Analytics. 
     Currently rebuilding the way we look at data @ <b>IUB</b>.
   </p>
   
