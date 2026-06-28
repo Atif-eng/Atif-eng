@@ -46,7 +46,7 @@
 | **Cats vs Dogs Classifier** | Binary image classification using Custom Convolutional Neural Networks (CNNs) with data augmentation. | `TensorFlow` `Keras` `CNN` |
 | **VM Cloud Failure Monitor** | Predictive maintenance system simulating distributed telemetry to catch virtual machine faults before downtime. | `Dask` `GRU` `LSTM` `ANN` `Pandas` |
 | **Moneyball 2026** | Predicting football player valuations with 91% R² accuracy using Random Forest. | `Python` `Random Forest` |
-| **Bitcoin Strategy** | Algo-trading bot identifying "Golden Cross" signals with Time-Series forecasting. | `Time-Series` `Matplotlib` |
+| **WIDS 2026** | Womens in Data Science with 95+ accuracy using boosting algorithms. | `Time-Series` `Matplotlib` |
 
 <br/>
 
